@@ -1,0 +1,13 @@
+venv/
+env/
+.env
+pycache/
+*.py[cod]
+*$py.class
+.pytest_cache/
+~/.prefect/
+prefect.db
+.DS_Store
+Thumbs.db
+
+#data/raw/*.csv
